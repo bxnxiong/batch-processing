@@ -9,7 +9,7 @@ The focus of this project is NOT creating complicated data processing flows, but
 
 ## Clone the project repository from github
 
-`$ git clone https://github.com/bxnxiong/RedditDataPipeline.git`
+`$ git clone https://github.com/bxnxiong/data-engineering-gym.git`
 
 `$ cd BatchProcessing`
 
