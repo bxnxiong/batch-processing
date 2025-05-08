@@ -9,9 +9,9 @@ The focus of this project is NOT creating complicated data processing flows, but
 
 ## Clone the project repository from github
 
-`$ git clone https://github.com/bxnxiong/data-engineering-gym.git`
+`$ git clone git@github.com:bxnxiong/batch-processing.git`
 
-`$ cd BatchProcessing`
+`$ cd batch-processing`
 
 ## Step 1. creating a Reddit app and get the required credentials. 
 
