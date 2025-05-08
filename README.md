@@ -5,7 +5,7 @@ The focus of this project is NOT creating complicated data processing flows, but
 
 ## Flow Overview
 
-![flow](flow.png)
+![flow](updated_flow.png)
 
 ## Clone the project repository from github
 
