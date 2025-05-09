@@ -20,6 +20,7 @@
 *.tar
 *.zip
 
+
 # Logs and databases #
 ######################
 *.log
@@ -43,3 +44,4 @@ minio_data/
 .env
 data/
 .ipynb_checkpoints/
+!stream-processing/dependencies.zip
